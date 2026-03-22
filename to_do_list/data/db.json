@@ -1,3 +1,23 @@
 {
-    "todos":[]
+  "todos": [
+    {
+      "id": "0.4720456417908774",
+      "title": "teste",
+      "time": "2",
+      "done": false
+    },
+    {
+      "id": "0.22521129246557736",
+      "title": "teste 2",
+      "time": "2",
+      "done": false
+    },
+    {
+      "id": 0.5555738769196522,
+      "title": "pedro mijar",
+      "time": "4",
+      "done": false
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
